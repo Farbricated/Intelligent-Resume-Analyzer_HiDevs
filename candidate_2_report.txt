@@ -1,0 +1,40 @@
+
+================================================================================
+CANDIDATE ANALYSIS REPORT
+Generated: 2026-02-13 11:19:43
+================================================================================
+
+CANDIDATE INFORMATION
+--------------------------------------------------------------------------------
+Name:           Jane Smith
+Email:          jane.smith@example.com
+Phone:          (555) 987-6543
+
+MATCH SCORE: 20/100
+RECOMMENDATION: NOT RECOMMENDED - Significant gaps in requirements
+
+DETAILED BREAKDOWN
+--------------------------------------------------------------------------------
+Skills Match:       0/50 points
+Experience Match:   0/30 points
+Education Match:    20/20 points
+
+SKILLS ANALYSIS
+--------------------------------------------------------------------------------
+Candidate Skills: Css, Html, Javascript, Node.Js, React
+
+Matched Skills:   None
+Missing Skills:   python, django, sql, git, rest api
+
+EXPERIENCE
+--------------------------------------------------------------------------------
+Total Years: 0 years
+Required:    5 years
+
+EDUCATION
+--------------------------------------------------------------------------------
+Bachelor
+
+================================================================================
+END OF REPORT
+================================================================================

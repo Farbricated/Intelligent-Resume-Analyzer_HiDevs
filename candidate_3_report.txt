@@ -1,0 +1,40 @@
+
+================================================================================
+CANDIDATE ANALYSIS REPORT
+Generated: 2026-02-13 11:19:43
+================================================================================
+
+CANDIDATE INFORMATION
+--------------------------------------------------------------------------------
+Name:           Robert Johnson
+Email:          robert.j@techmail.com
+Phone:          555-444-3333
+
+MATCH SCORE: 100/100
+RECOMMENDATION: HIGHLY RECOMMENDED - Excellent match for the position
+
+DETAILED BREAKDOWN
+--------------------------------------------------------------------------------
+Skills Match:       50/50 points
+Experience Match:   30/30 points
+Education Match:    20/20 points
+
+SKILLS ANALYSIS
+--------------------------------------------------------------------------------
+Candidate Skills: Agile, Aws, Azure, Devops, Django, Docker, Flask, Git, Graphql, Java, Javascript, Jenkins, Kubernetes, Mongodb, Postgresql, Python, Rest Api, Sql
+
+Matched Skills:   python, django, sql, git, rest api
+Missing Skills:   None
+
+EXPERIENCE
+--------------------------------------------------------------------------------
+Total Years: 10 years
+Required:    5 years
+
+EDUCATION
+--------------------------------------------------------------------------------
+Bachelor, Master
+
+================================================================================
+END OF REPORT
+================================================================================

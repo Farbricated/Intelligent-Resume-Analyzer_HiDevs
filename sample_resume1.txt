@@ -1,0 +1,78 @@
+JOHN DOE
+Email: john.doe@email.com | Phone: +1-555-123-4567
+Location: San Francisco, CA
+
+PROFESSIONAL SUMMARY
+Senior Software Engineer with 7 years of experience in Python development, specializing in backend systems, REST APIs, and data processing. Proven track record of delivering scalable solutions and leading development teams.
+
+TECHNICAL SKILLS
+Programming Languages: Python, Java, JavaScript, SQL
+Frameworks & Libraries: Django, Flask, FastAPI, React, Node.js
+Databases: PostgreSQL, MongoDB, MySQL, Redis
+DevOps & Tools: Docker, Kubernetes, Git, Jenkins, AWS, CI/CD
+Other: REST API, GraphQL, Microservices, Agile, Test-Driven Development
+Data Processing: JSON File Handling, Data Extraction Algorithms, Text Processing
+
+PROFESSIONAL EXPERIENCE
+
+Senior Software Developer | Tech Solutions Inc. | San Francisco, CA
+March 2018 - Present (7 years)
+• Led development of microservices architecture serving 1M+ daily users
+• Implemented REST APIs with 99.9% uptime using Python and Django
+• Designed and optimized PostgreSQL databases, reducing query time by 60%
+• Mentored team of 5 junior developers in best practices and code reviews
+• Developed automated testing framework increasing code coverage to 95%
+
+Software Engineer | Digital Systems Corp | Palo Alto, CA  
+June 2016 - February 2018 (2 years)
+• Developed Python-based data processing pipelines handling 100GB+ daily data
+• Created data extraction algorithms for resume parsing and candidate matching
+• Built JSON file handling systems for efficient data persistence
+• Implemented matching algorithms for intelligent candidate screening
+• Collaborated with HR team to automate resume screening process
+
+EDUCATION
+
+Bachelor of Science in Computer Science
+University of California, Berkeley | Graduated: May 2016
+GPA: 3.8/4.0
+
+Relevant Coursework:
+• Data Structures and Algorithms
+• Database Systems
+• Software Engineering
+• Machine Learning
+• Web Development
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect (2022)
+• Python Professional Certification (2020)
+• Certified Scrum Master (2019)
+
+PROJECTS
+
+Intelligent Resume Analyzer
+• Built Python application automating resume screening and candidate matching
+• Implemented text processing and data extraction algorithms
+• Developed weighted matching algorithm with 85% accuracy
+• Created JSON-based persistence layer for candidate data
+Skills: Python Programming, Text Processing, Data Extraction, JSON, Matching Algorithms
+
+Automated Data Pipeline
+• Designed ETL pipeline processing 500K+ records daily
+• Integrated with multiple data sources (APIs, databases, files)
+• Implemented error handling and data validation
+Skills: Python, SQL, Data Processing, API Integration
+
+ACHIEVEMENTS
+• Led migration of monolithic application to microservices (2020)
+• Reduced system latency by 40% through optimization (2021)
+• Published article on "Efficient Resume Parsing with Python" (2022)
+• Received "Outstanding Developer" award at Tech Solutions Inc. (2023)
+
+LANGUAGES
+• English (Native)
+• Spanish (Conversational)
+
+INTERESTS
+Open source contributions, Technical writing, Mentoring, Hiking

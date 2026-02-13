@@ -1,0 +1,61 @@
+Jane Smith
+jane.smith@example.com
+(555) 987-6543
+New York, NY
+
+OBJECTIVE
+Entry-level software developer seeking opportunities to apply frontend development skills and grow in a dynamic tech environment.
+
+EDUCATION
+Bachelor of Arts in Graphic Design
+New York University
+Graduated: May 2023
+GPA: 3.5/4.0
+
+SKILLS
+• Frontend: HTML, CSS, JavaScript, React
+• Design: Figma, Adobe XD, Photoshop
+• Version Control: Git, GitHub
+• Other: Responsive Design, UI/UX Principles
+
+EXPERIENCE
+
+Web Development Intern | StartupXYZ | New York, NY
+January 2023 - May 2023 (6 months)
+• Assisted senior developers in building responsive web applications
+• Implemented UI components using React and CSS
+• Participated in daily standup meetings and sprint planning
+• Fixed bugs and improved website performance
+• Learned JavaScript, React, and modern web development practices
+
+Freelance Graphic Designer | Self-Employed
+September 2021 - December 2022
+• Created logos and branding materials for 10+ small businesses  
+• Designed responsive website mockups
+• Collaborated with clients to understand requirements
+• Delivered projects on time and within budget
+
+PROJECTS
+
+Portfolio Website
+• Built personal portfolio using React and modern JavaScript
+• Implemented responsive design for mobile and desktop
+• Deployed on Netlify with continuous deployment
+Technologies: React, JavaScript, HTML, CSS, Git
+
+E-commerce Mockup
+• Designed complete e-commerce website mockup in Figma
+• Created user flow diagrams and wireframes
+• Presented design to peers and incorporated feedback
+Tools: Figma, Adobe XD
+
+CERTIFICATIONS
+• freeCodeCamp Responsive Web Design (2022)
+• JavaScript Algorithms and Data Structures (2023)
+
+VOLUNTEER EXPERIENCE
+Code Club Mentor | Local Community Center
+Teaching basic programming to high school students
+
+INTERESTS
+Web design, User experience, Photography, Travel

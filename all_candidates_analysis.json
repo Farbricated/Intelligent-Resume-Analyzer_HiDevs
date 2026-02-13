@@ -1,0 +1,147 @@
+[
+  {
+    "resume_data": {
+      "name": "John Doe",
+      "email": "john.doe@email.com",
+      "phone": "+1-555-123-4567",
+      "skills": [
+        "Algorithms",
+        "Aws",
+        "Data Extraction",
+        "Django",
+        "Docker",
+        "Flask",
+        "Git",
+        "Json",
+        "Mongodb",
+        "Postgresql",
+        "Problem Solving",
+        "Python",
+        "Rest Api",
+        "Sql"
+      ],
+      "experience": {
+        "total_years": 7,
+        "companies": []
+      },
+      "education": [
+        "Bachelor"
+      ],
+      "raw_text": "\n        John Doe\n        john.doe@email.com | +1-555-123-4567\n        \n        PROFESSIONAL SUMMARY\n        Senior Software Engineer with 7 years of experience in Python development\n        \n        SKILLS\n        Python, Django, Flask, SQL, PostgreSQL, MongoDB, Git, REST API, Docker, AWS\n        Data extraction algorithms, JSON file handling, Problem solving\n        \n        EXPERIENCE\n        Senior Developer at Tech Solutions Inc (2018-Present)\n        - Led development of microservices architecture\n        - Implemented REST APIs serving 1M+ requests daily\n        \n        Software Engineer at Digital Systems Corp (2016-2018)\n        - Developed Python-based data processing pipelines\n        \n        EDUCATION\n        Bachelor of Science in Computer Science\n        University of Technology, 2016\n        "
+    },
+    "match_score": 100,
+    "score_breakdown": {
+      "skills_score": 50,
+      "experience_score": 30,
+      "education_score": 20,
+      "total_score": 100,
+      "matched_skills": [
+        "python",
+        "django",
+        "sql",
+        "git",
+        "rest api"
+      ],
+      "missing_skills": []
+    },
+    "recommendation": "HIGHLY RECOMMENDED - Excellent match for the position",
+    "report": "\n================================================================================\nCANDIDATE ANALYSIS REPORT\nGenerated: 2026-02-13 11:19:43\n================================================================================\n\nCANDIDATE INFORMATION\n--------------------------------------------------------------------------------\nName:           John Doe\nEmail:          john.doe@email.com\nPhone:          +1-555-123-4567\n\nMATCH SCORE: 100/100\nRECOMMENDATION: HIGHLY RECOMMENDED - Excellent match for the position\n\nDETAILED BREAKDOWN\n--------------------------------------------------------------------------------\nSkills Match:       50/50 points\nExperience Match:   30/30 points\nEducation Match:    20/20 points\n\nSKILLS ANALYSIS\n--------------------------------------------------------------------------------\nCandidate Skills: Algorithms, Aws, Data Extraction, Django, Docker, Flask, Git, Json, Mongodb, Postgresql, Problem Solving, Python, Rest Api, Sql\n\nMatched Skills:   python, django, sql, git, rest api\nMissing Skills:   None\n\nEXPERIENCE\n--------------------------------------------------------------------------------\nTotal Years: 7 years\nRequired:    5 years\n\nEDUCATION\n--------------------------------------------------------------------------------\nBachelor\n\n================================================================================\nEND OF REPORT\n================================================================================\n",
+    "analyzed_at": "2026-02-13T11:19:43.348110"
+  },
+  {
+    "resume_data": {
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "phone": "(555) 987-6543",
+      "skills": [
+        "Css",
+        "Html",
+        "Javascript",
+        "Node.Js",
+        "React"
+      ],
+      "experience": {
+        "total_years": 0,
+        "companies": []
+      },
+      "education": [
+        "Bachelor"
+      ],
+      "raw_text": "\n        Jane Smith\n        jane.smith@example.com\n        (555) 987-6543\n        \n        Objective: Looking for entry-level position\n        \n        Skills: JavaScript, HTML, CSS, React, Node.js\n        \n        Education:\n        Bachelor of Arts in Design\n        State University, 2023\n        \n        Internship Experience:\n        Web Development Intern at StartupXYZ (6 months)\n        - Assisted in frontend development\n        - Learned JavaScript and React\n        "
+    },
+    "match_score": 20,
+    "score_breakdown": {
+      "skills_score": 0,
+      "experience_score": 0,
+      "education_score": 20,
+      "total_score": 20,
+      "matched_skills": [],
+      "missing_skills": [
+        "python",
+        "django",
+        "sql",
+        "git",
+        "rest api"
+      ]
+    },
+    "recommendation": "NOT RECOMMENDED - Significant gaps in requirements",
+    "report": "\n================================================================================\nCANDIDATE ANALYSIS REPORT\nGenerated: 2026-02-13 11:19:43\n================================================================================\n\nCANDIDATE INFORMATION\n--------------------------------------------------------------------------------\nName:           Jane Smith\nEmail:          jane.smith@example.com\nPhone:          (555) 987-6543\n\nMATCH SCORE: 20/100\nRECOMMENDATION: NOT RECOMMENDED - Significant gaps in requirements\n\nDETAILED BREAKDOWN\n--------------------------------------------------------------------------------\nSkills Match:       0/50 points\nExperience Match:   0/30 points\nEducation Match:    20/20 points\n\nSKILLS ANALYSIS\n--------------------------------------------------------------------------------\nCandidate Skills: Css, Html, Javascript, Node.Js, React\n\nMatched Skills:   None\nMissing Skills:   python, django, sql, git, rest api\n\nEXPERIENCE\n--------------------------------------------------------------------------------\nTotal Years: 0 years\nRequired:    5 years\n\nEDUCATION\n--------------------------------------------------------------------------------\nBachelor\n\n================================================================================\nEND OF REPORT\n================================================================================\n",
+    "analyzed_at": "2026-02-13T11:19:43.349812"
+  },
+  {
+    "resume_data": {
+      "name": "Robert Johnson",
+      "email": "robert.j@techmail.com",
+      "phone": "555-444-3333",
+      "skills": [
+        "Agile",
+        "Aws",
+        "Azure",
+        "Devops",
+        "Django",
+        "Docker",
+        "Flask",
+        "Git",
+        "Graphql",
+        "Java",
+        "Javascript",
+        "Jenkins",
+        "Kubernetes",
+        "Mongodb",
+        "Postgresql",
+        "Python",
+        "Rest Api",
+        "Sql"
+      ],
+      "experience": {
+        "total_years": 10,
+        "companies": [
+          "Principal Developer - Solutions Corp (2012-2015)"
+        ]
+      },
+      "education": [
+        "Bachelor",
+        "Master"
+      ],
+      "raw_text": "\n        Robert Johnson\n        robert.j@techmail.com | 555-444-3333\n        \n        SUMMARY\n        Full-stack developer with 10+ years of experience\n        \n        TECHNICAL SKILLS\n        Python, Java, C++, JavaScript, Django, Flask, Spring Boot\n        SQL, PostgreSQL, MongoDB, Redis\n        Git, Docker, Kubernetes, Jenkins, AWS, Azure\n        REST API, GraphQL, Microservices, Agile, DevOps\n        \n        PROFESSIONAL EXPERIENCE\n        Lead Engineer - Tech Innovations Ltd (2015-Present)\n        Principal Developer - Solutions Corp (2012-2015)\n        \n        EDUCATION\n        Master of Science in Computer Science\n        MIT, 2012\n        Bachelor of Technology in Computer Engineering\n        Stanford University, 2010\n        "
+    },
+    "match_score": 100,
+    "score_breakdown": {
+      "skills_score": 50,
+      "experience_score": 30,
+      "education_score": 20,
+      "total_score": 100,
+      "matched_skills": [
+        "python",
+        "django",
+        "sql",
+        "git",
+        "rest api"
+      ],
+      "missing_skills": []
+    },
+    "recommendation": "HIGHLY RECOMMENDED - Excellent match for the position",
+    "report": "\n================================================================================\nCANDIDATE ANALYSIS REPORT\nGenerated: 2026-02-13 11:19:43\n================================================================================\n\nCANDIDATE INFORMATION\n--------------------------------------------------------------------------------\nName:           Robert Johnson\nEmail:          robert.j@techmail.com\nPhone:          555-444-3333\n\nMATCH SCORE: 100/100\nRECOMMENDATION: HIGHLY RECOMMENDED - Excellent match for the position\n\nDETAILED BREAKDOWN\n--------------------------------------------------------------------------------\nSkills Match:       50/50 points\nExperience Match:   30/30 points\nEducation Match:    20/20 points\n\nSKILLS ANALYSIS\n--------------------------------------------------------------------------------\nCandidate Skills: Agile, Aws, Azure, Devops, Django, Docker, Flask, Git, Graphql, Java, Javascript, Jenkins, Kubernetes, Mongodb, Postgresql, Python, Rest Api, Sql\n\nMatched Skills:   python, django, sql, git, rest api\nMissing Skills:   None\n\nEXPERIENCE\n--------------------------------------------------------------------------------\nTotal Years: 10 years\nRequired:    5 years\n\nEDUCATION\n--------------------------------------------------------------------------------\nBachelor, Master\n\n================================================================================\nEND OF REPORT\n================================================================================\n",
+    "analyzed_at": "2026-02-13T11:19:43.354351"
+  }
+]
